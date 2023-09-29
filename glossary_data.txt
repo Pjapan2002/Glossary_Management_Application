@@ -1,1 +1,50 @@
-001,Apple,Fruit,12,4
+productId,productName,productCategory,productQuantity,productPricePerPiece
+101,Laptop,Electronics,25,800
+102,Smartphone,Electronics,50,400
+103,T-shirt,Clothing,100,20
+104,Running Shoes,Footwear,30,60
+105,Coffee Maker,Appliances,10,120
+106,Backpack,Accessories,40,50
+107,Hardcover Book,Books,60,15
+108,Desk Chair,Furniture,20,150
+109,Blender,Appliances,15,90
+110,Sunglasses,Accessories,35,30
+111,Tablet,Electronics,20,300
+112,Jeans,Clothing,80,40
+113,Headphones,Electronics,40,60
+114,Running Shorts,Clothing,50,15
+115,Toaster,Appliances,25,30
+116,Gaming Console,Electronics,15,350
+117,Hiking Boots,Footwear,20,70
+118,Paperback Book,Books,90,10
+119,Office Desk,Furniture,10,200
+120,Blouse,Clothing,60,25
+121,Digital Camera,Electronics,30,250
+122,Shorts,Clothing,70,20
+123,Refrigerator,Appliances,5,800
+124,Watch,Accessories,45,50
+125,Printer,Electronics,10,100
+126,Running Socks,Clothing,100,5
+127,Dress,Clothing,40,40
+128,Microwave Oven,Appliances,12,150
+129,Wallet,Accessories,55,20
+130,Desk Lamp,Electronics,30,40
+131,Running Jacket,Clothing,20,45
+132,Couch,Furniture,5,500
+133,Necklace,Accessories,25,70
+134,Bluetooth Speaker,Electronics,40,60
+135,Sweater,Clothing,60,30
+136,Washing Machine,Appliances,8,400
+137,Back Brace,Accessories,15,15
+138,TV,Electronics,10,600
+139,Hat,Accessories,70,10
+140,Sandals,Footwear,40,25
+141,Chair,Furniture,30,80
+142,Cookware Set,Appliances,10,200
+143,Socks,Clothing,120,5
+144,Backpack,Accessories,50,40
+145,Suit,Clothing,15,100
+146,Table,Furniture,20,120
+147,Candle,Home Decor,80,3
+148,Outdoor Grill,Appliances,7,250
+149,Scarf,Accessories,65,15
